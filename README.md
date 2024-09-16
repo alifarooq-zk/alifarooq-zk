@@ -18,7 +18,7 @@
 </p>
 
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifarooq-zk&theme=dark" alt="alifarooq-zk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifarooq-zk&theme=dracula" alt="alifarooq-zk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifarooq-zk&show_icons=true&theme=dracula&locale=en" alt="alifarooq-zk" /></p>
 
