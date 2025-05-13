@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **nestjs, javascript**
 
-- 📫 How to reach me **alifarooq.zenkoders@gmail.com** | [LinkedIn](https://linkedin.com/in/itsalifarooq)
+- 📫 How to reach me **alifarooq@zenkoders.com** | [LinkedIn](https://linkedin.com/in/itsalifarooq)
 
 - ⚡ Fun fact **i liked to read novels and manga**
 
