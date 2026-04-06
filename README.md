@@ -1,77 +1,111 @@
-<h1 align="center">Ali Farooq</h1>
-<p align="center">
-  <code>Backend Engineer</code> &nbsp;·&nbsp; <code>AI Workflows</code> &nbsp;·&nbsp; <code>Platform Systems</code>
-</p>
+<h1 align="center">Hi, I'm Ali Farooq 👋</h1>
+<h3 align="center">Backend Engineer building scalable systems, AI-powered workflows, and product-focused platforms</h3>
 
 <p align="center">
-  <a href="https://github.com/alifarooq-zk">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/itsalifarooq">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:alifarooq@zenkoders.com">alifarooq@zenkoders.com</a>
-</p>
-
----
-
-### About
-
-Software engineer with depth in **backend engineering**, **AI-powered workflows**, and **platform systems**. I build software that combines solid engineering fundamentals with real business impact — spanning APIs, background jobs, full-stack features, automation pipelines, and deployment workflows.
-
-Over the past year I've worked on systems involving **CRM automation**, **AI-assisted calling**, **document processing**, **retrieval-augmented generation**, and **workflow orchestration**. My experience includes integrating platforms such as OpenAI, Twilio, VAPI, Pipedrive, Google OAuth, Google Calendar, Google Sheets, and AWS-based environments. I've also worked extensively with PostgreSQL via Prisma and Drizzle — schema design, migrations, indexing, and performance-conscious queries.
-
-Not limited to a single layer: equally comfortable in backend, frontend, AI workflow design, and system integration. I understand how applications behave beyond the code itself, drawing on foundations in databases, networking, operating systems, and software design principles.
-
----
-
-### Core Stack
-
-| Layer | Technologies |
-|---|---|
-| **Languages** | TypeScript, JavaScript, Python |
-| **Backend** | Node.js, NestJS, Express |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Databases** | PostgreSQL, MongoDB, Redis, SQLite |
-| **ORM / Query** | Prisma, Drizzle ORM |
-| **Cloud & Infra** | AWS, Docker, Firebase, Supabase |
-| **AI / LLM** | OpenAI, LangChain, VAPI, RAG pipelines |
-
----
-
-### Platform Integrations
-
-`OpenAI` `VAPI` `LangChain` `Twilio` `Pipedrive` `Stripe` `Google OAuth` `Google Calendar` `Google Sheets` `AWS` `Firebase` `Supabase`
-
----
-
-### Recent Focus Areas
-
-- **AI & Automation** — RAG pipelines, LLM orchestration, AI-assisted calling, structured document extraction
-- **Backend Systems** — API design, background workers (SQS), authentication flows, webhook integrations
-- **CRM & Workflow** — Pipedrive automation, Google Workspace integrations, scheduling systems
-- **Data Layer** — Schema design, migrations, indexing strategy, performance-conscious query design
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alifarooq-zk&theme=dark&hide_border=true&background=0D1117" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alifarooq-zk&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarooq-zk&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="langs" />
+  <a href="https://github.com/alifarooq-zk">GitHub</a> •
+  <a href="https://linkedin.com/in/itsalifarooq">LinkedIn</a> •
+  <a href="mailto:alifarooq@zenkoders.com">Email</a>
 </p>
 
 ---
 
-### Tools
+## About Me
+
+I’m a software engineer with strong depth in backend engineering and hands-on experience building across the stack. I work primarily with **TypeScript, Node.js, NestJS, PostgreSQL, React, and Next.js**, and I enjoy building software that combines clean engineering with real business value.
+
+My recent work has included:
+
+- Designing and maintaining **backend services, APIs, background jobs, and authentication flows**
+- Building **AI-powered workflows** for calling, automation, document processing, and retrieval-based systems
+- Developing **internal tools and full-stack product features** used in real operational environments
+- Working on **integrations and platform automation** across OpenAI, Twilio, Vapi, Pipedrive, Google OAuth, Google Calendar, Google Sheets, and AWS
+- Designing data models and improving performance with **PostgreSQL, Prisma, Drizzle, indexing, and migration workflows**
+
+I’m especially interested in roles and projects where I can contribute across **backend systems, AI-enabled products, platform engineering, and end-to-end delivery**.
+
+---
+
+## What I Focus On
+
+- Scalable backend architecture
+- AI-assisted product workflows
+- API design and system integrations
+- Data modeling and performance-conscious engineering
+- Building reliable software that solves practical business problems
+
+---
+
+## Tech Stack
+
+### Languages
+`TypeScript` `JavaScript` `Python` `SQL`
+
+### Backend
+`Node.js` `NestJS` `Express` `REST APIs` `Auth` `Background Jobs`
+
+### Frontend
+`React` `Next.js` `Tailwind CSS` `Material UI`
+
+### Databases & Infra
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `SQLite` `Docker` `AWS` `Linux`
+
+### Tools & Platforms
+`Prisma` `Drizzle` `OpenAI` `Twilio` `Vapi` `Pipedrive` `Google OAuth` `Google Calendar API` `Google Sheets API` `Postman` `Git`
+
+---
+
+## Currently Exploring
+
+- Advanced **LLM application patterns**
+- **LangChain** and agentic workflows
+- Better cloud-native deployment and platform design
+- Practical AI systems that improve operations, not just demos
+
+---
+
+## Engineering Mindset
+
+What sets me apart is range with depth.
+
+While backend engineering is my strongest area, I’m also comfortable contributing to frontend development, AI workflow design, integrations, and deployment workflows. I like working on systems end to end, from product idea to production delivery, and I tend to think beyond implementation alone, considering reliability, maintainability, and scale.
+
+I enjoy simplifying messy systems, solving ambiguous engineering problems, and building tools that make teams faster.
+
+---
+
+## Featured Profile Areas
+
+Here are the kinds of projects you’ll usually find on my GitHub:
+
+- Backend services and modular API architectures
+- AI-assisted workflows and automation systems
+- Document processing and structured data extraction
+- CRM and operations tooling
+- Full-stack applications with TypeScript-first stacks
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,postgres,redis,mongodb,docker,aws,prisma,python,tailwind,git,vscode" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alifarooq-zk&theme=dracula&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alifarooq-zk&show_icons=true&theme=dracula&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarooq-zk&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
+## Let’s Connect
+
+- GitHub: [alifarooq-zk](https://github.com/alifarooq-zk)
+- LinkedIn: [itsalifarooq](https://linkedin.com/in/itsalifarooq)
+- Email: [alifarooq@zenkoders.com](mailto:alifarooq@zenkoders.com)
+
+---
+
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — currently unlearning this by writing excellent documentation anyway.</i>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
