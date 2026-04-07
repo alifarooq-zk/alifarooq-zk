@@ -91,11 +91,6 @@ Here are the kinds of projects you’ll usually find on my GitHub:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alifarooq-zk&theme=dracula&hide_border=true" alt="GitHub streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alifarooq-zk&show_icons=true&theme=dracula&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarooq-zk&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
-</p>
-
 ---
 
 ## Let’s Connect
