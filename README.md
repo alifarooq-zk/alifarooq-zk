@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Ali Farooq 👋</h1>
-<h3 align="center">Backend Engineer building scalable systems, AI-powered workflows, and product-focused platforms</h3>
+<h1 align="center">Hi, I'm Ali Farooq</h1>
+<h3 align="center">Backend engineer building APIs, automations, and AI-powered products</h3>
 
 <p align="center">
-  <a href="https://github.com/alifarooq-zk">GitHub</a> •
-  <a href="https://linkedin.com/in/itsalifarooq">LinkedIn</a> •
+  <a href="https://github.com/alifarooq-zk">GitHub</a> |
+  <a href="https://linkedin.com/in/itsalifarooq">LinkedIn</a> |
   <a href="mailto:alifarooq@zenkoders.com">Email</a>
 </p>
 
@@ -11,27 +11,29 @@
 
 ## About Me
 
-I’m a software engineer with strong depth in backend engineering and hands-on experience building across the stack. I work primarily with **TypeScript, Node.js, NestJS, PostgreSQL, React, and Next.js**, and I enjoy building software that combines clean engineering with real business value.
+I'm a software engineer with a strong backend focus, but I usually end up working across the stack when the product needs it.
 
-My recent work has included:
+Most of my work is in **TypeScript, Node.js, NestJS, PostgreSQL, React, and Next.js**. I like building systems that are clean under the hood, useful in production, and practical for the people using them.
 
-- Designing and maintaining **backend services, APIs, background jobs, and authentication flows**
-- Building **AI-powered workflows** for calling, automation, document processing, and retrieval-based systems
-- Developing **internal tools and full-stack product features** used in real operational environments
-- Working on **integrations and platform automation** across OpenAI, Twilio, Vapi, Pipedrive, Google OAuth, Google Calendar, Google Sheets, and AWS
-- Designing data models and improving performance with **PostgreSQL, Prisma, Drizzle, indexing, and migration workflows**
+Lately, that has meant working on:
 
-I’m especially interested in roles and projects where I can contribute across **backend systems, AI-enabled products, platform engineering, and end-to-end delivery**.
+- Backend services, APIs, auth flows, and background jobs
+- AI workflows for calling, automation, document processing, and retrieval-based systems
+- Internal tools and full-stack features used in day-to-day operations
+- Integrations with OpenAI, Twilio, Vapi, Pipedrive, Google OAuth, Google Calendar, Google Sheets, and AWS
+- Data modeling, query performance, and migration workflows with PostgreSQL, Prisma, and Drizzle
+
+I'm especially interested in roles where I can contribute to backend systems, AI-enabled products, platform work, and end-to-end delivery.
 
 ---
 
-## What I Focus On
+## What I Work On
 
 - Scalable backend architecture
-- AI-assisted product workflows
-- API design and system integrations
-- Data modeling and performance-conscious engineering
-- Building reliable software that solves practical business problems
+- Product-focused AI workflows
+- API design and third-party integrations
+- Data modeling and performance tuning
+- Building software that solves real operational problems
 
 ---
 
@@ -58,30 +60,30 @@ I’m especially interested in roles and projects where I can contribute across 
 
 - Advanced **LLM application patterns**
 - **LangChain** and agentic workflows
-- Better cloud-native deployment and platform design
+- Cloud-native deployment and platform design
 - Practical AI systems that improve operations, not just demos
 
 ---
 
-## Engineering Mindset
+## How I Approach Engineering
 
-What sets me apart is range with depth.
+I care about building things that hold up in real use.
 
-While backend engineering is my strongest area, I’m also comfortable contributing to frontend development, AI workflow design, integrations, and deployment workflows. I like working on systems end to end, from product idea to production delivery, and I tend to think beyond implementation alone, considering reliability, maintainability, and scale.
+That usually means thinking past the first implementation and paying attention to reliability, maintainability, performance, and the actual business problem. I like cleaning up messy systems, making unclear workflows simpler, and turning rough ideas into something teams can use in production.
 
-I enjoy simplifying messy systems, solving ambiguous engineering problems, and building tools that make teams faster.
+Backend engineering is where I'm strongest, but I'm also comfortable working on frontend features, integrations, AI workflows, and deployment setups when the job calls for it.
 
 ---
 
-## Featured Profile Areas
+## Projects You'll Find Here
 
-Here are the kinds of projects you’ll usually find on my GitHub:
+Most of the work on my GitHub falls into a few buckets:
 
 - Backend services and modular API architectures
 - AI-assisted workflows and automation systems
 - Document processing and structured data extraction
 - CRM and operations tooling
-- Full-stack applications with TypeScript-first stacks
+- Full-stack applications built with TypeScript-first stacks
 
 ---
 
@@ -93,7 +95,7 @@ Here are the kinds of projects you’ll usually find on my GitHub:
 
 ---
 
-## Let’s Connect
+## Let's Connect
 
 - GitHub: [alifarooq-zk](https://github.com/alifarooq-zk)
 - LinkedIn: [itsalifarooq](https://linkedin.com/in/itsalifarooq)
@@ -102,5 +104,5 @@ Here are the kinds of projects you’ll usually find on my GitHub:
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
