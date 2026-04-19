@@ -89,8 +89,17 @@ Most of the work on my GitHub falls into a few buckets:
 
 ## GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alifarooq-zk&theme=dracula&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarooq-zk&layout=compact&theme=dracula" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alifarooq-zk&show_icons=true&theme=dracula" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alifarooq-zk&theme=dracula" alt="GitHub streak stats" />
 </p>
 
 ---
